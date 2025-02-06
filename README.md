@@ -40,5 +40,6 @@ To connect your GitHub account to Visual Studio Code (VS Code), follow these ste
    - Open the Command Palette by pressing `Ctrl+Shift+P`.
    - Type `GitHub: Sign in to GitHub` and select it.
    - Follow the prompts to sign in to your GitHub account. You may need to authorize VS Code to access your GitHub account.
-
+### Deployed on Streamlit Cloud 
+     Link:https://project-on-ml-kazmq9bljbuo3apsd7ohom.streamlit.app/
 By following these steps, you should be able to connect your GitHub account to VS Code and manage your repositories efficiently.
